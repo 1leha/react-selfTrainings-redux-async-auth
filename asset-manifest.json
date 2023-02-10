@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-selfTrainings-redux-async-auth/static/css/main.23775710.css",
+    "main.js": "/react-selfTrainings-redux-async-auth/static/js/main.481711e3.js",
+    "static/js/266.eb08b260.chunk.js": "/react-selfTrainings-redux-async-auth/static/js/266.eb08b260.chunk.js",
+    "static/css/40.1e05f24e.chunk.css": "/react-selfTrainings-redux-async-auth/static/css/40.1e05f24e.chunk.css",
+    "static/js/40.6fe90b53.chunk.js": "/react-selfTrainings-redux-async-auth/static/js/40.6fe90b53.chunk.js",
+    "static/css/635.e2937cc9.chunk.css": "/react-selfTrainings-redux-async-auth/static/css/635.e2937cc9.chunk.css",
+    "static/js/635.83ff3b11.chunk.js": "/react-selfTrainings-redux-async-auth/static/js/635.83ff3b11.chunk.js",
+    "static/css/853.40e66e5b.chunk.css": "/react-selfTrainings-redux-async-auth/static/css/853.40e66e5b.chunk.css",
+    "static/js/853.48059f81.chunk.js": "/react-selfTrainings-redux-async-auth/static/js/853.48059f81.chunk.js",
+    "static/js/270.31267a1b.chunk.js": "/react-selfTrainings-redux-async-auth/static/js/270.31267a1b.chunk.js",
+    "index.html": "/react-selfTrainings-redux-async-auth/index.html",
+    "main.23775710.css.map": "/react-selfTrainings-redux-async-auth/static/css/main.23775710.css.map",
+    "main.481711e3.js.map": "/react-selfTrainings-redux-async-auth/static/js/main.481711e3.js.map",
+    "266.eb08b260.chunk.js.map": "/react-selfTrainings-redux-async-auth/static/js/266.eb08b260.chunk.js.map",
+    "40.1e05f24e.chunk.css.map": "/react-selfTrainings-redux-async-auth/static/css/40.1e05f24e.chunk.css.map",
+    "40.6fe90b53.chunk.js.map": "/react-selfTrainings-redux-async-auth/static/js/40.6fe90b53.chunk.js.map",
+    "635.e2937cc9.chunk.css.map": "/react-selfTrainings-redux-async-auth/static/css/635.e2937cc9.chunk.css.map",
+    "635.83ff3b11.chunk.js.map": "/react-selfTrainings-redux-async-auth/static/js/635.83ff3b11.chunk.js.map",
+    "853.40e66e5b.chunk.css.map": "/react-selfTrainings-redux-async-auth/static/css/853.40e66e5b.chunk.css.map",
+    "853.48059f81.chunk.js.map": "/react-selfTrainings-redux-async-auth/static/js/853.48059f81.chunk.js.map",
+    "270.31267a1b.chunk.js.map": "/react-selfTrainings-redux-async-auth/static/js/270.31267a1b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23775710.css",
+    "static/js/main.481711e3.js"
+  ]
+}
